@@ -8,19 +8,19 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer__content">
         <div className="footer__social">
-          <a href="https://www.facebook.com/mango" className="footer__social-icon">
+          <a href="https://www.facebook.com" className="footer__social-icon">
           Facebook
           </a>
-          <a href="https://www.twitter.com/mango" className="footer__social-icon">
+          <a href="https://www.twitter.com" className="footer__social-icon">
             Twitter
           </a>
-          <a href="https://www.instagram.com/mango" className="footer__social-icon">
+          <a href="https://www.instagram.com" className="footer__social-icon">
             Instagram
           </a>
         </div>
         <div className="footer__links">
-          <a href="https://github.com/your-username" className="footer__link">GitHub</a>
-          <a href="https://www.figma.com/file/your-file-id" className="footer__link">Figma</a>
+          <a href="https://github.com/AdonayLorenzo/StarWars" className="footer__link">GitHub</a>
+          <a href="https://www.figma.com/community/file/1035612749244820645/101-free-website-headers-for-web-design-v1-2" className="footer__link">Figma</a>
         </div>
         <br/>
         <a className="footer__copyright" href="/Privacity">
