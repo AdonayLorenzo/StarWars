@@ -33,3 +33,46 @@ body {
   font-size: 1.2rem;
   margin-bottom: 20px;
 }
+
+.links{
+  text-decoration: none;
+  color: yellow;
+  margin: 1em;
+}
+
+.links li{
+  text-decoration: none;
+  color: yellow;
+  margin: 1em;
+}
+.characters{
+  display: flex;
+  justify-content: space-between;
+}
+
+.character{
+  text-decoration: none;
+  color: yellow;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: gray;
+  margin: 2em;
+}
+
+.character h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.character p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+
+}
+
+.title{
+  text-decoration: none;
+  color: yellow;
+  text-align: center;
+  margin-top: 3em;
+}
