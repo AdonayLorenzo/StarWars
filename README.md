@@ -1,8 +1,9 @@
-# Star Wars Fan Page
+# Star Wars
 
-[Star Wars]
 
 Welcome to the Star Wars Fan Page! This project is a web application built with React and Vite, dedicated to Star Wars fans. The page includes three main sections: the home page, the privacy page, and the image gallery.
+
+This is a project to learn some features of react i tryed my best to do it.
 
 ## Features
 
