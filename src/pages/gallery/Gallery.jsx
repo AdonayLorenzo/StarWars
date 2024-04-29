@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../components/header/Header';
 import Footer from '../../components/footer/Footer';
-import images from '../../components/images/images.json';
+import imagesData from '../../components/images/images.json'; // Corrected import path
 import './Gallery.css';
 
 const Gallery = () => {
@@ -10,9 +10,8 @@ const Gallery = () => {
       <Header />
 
       <div className="gallery-container">
-        {Array.isArray(images) && images.map((image, index) => (
-          
-          <img key={index} src={image} alt="" />
+        {Array.isArray(imagesData.images) && imagesData.images.map((image, index) => (
+          <img key={index} src={image.path} alt={image.name} /> // Use relative paths from the public folder
         ))}
       </div>
 
