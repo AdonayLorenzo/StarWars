@@ -1,11 +1,9 @@
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-import {getDatabase} from "firebase/database";
-// Your web app's Firebase configuration
+import { getDatabase } from "firebase/database";
+
+// Tu configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCjC638ot8f3kzXKxPQd3EwGz8VauCEQJ0",
+  apiKey: "YOUR_API_KEY",
   authDomain: "starwars-e2a16.firebaseapp.com",
   databaseURL: "https://starwars-e2a16-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "starwars-e2a16",
@@ -14,7 +12,10 @@ const firebaseConfig = {
   appId: "1:891040477097:web:3cc7efe11d9fe6960b1eb8"
 };
 
+// Inicializar la aplicación de Firebase
 const app = initializeApp(firebaseConfig);
+
+// Obtener una referencia a la base de datos
 const db = getDatabase(app);
 
 export default db;
