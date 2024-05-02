@@ -1,13 +1,14 @@
 
-.title{
-    color: white;
+.titleD{
+    text-align: center;
+    color: #d0ddd0;
     padding: 0;
     margin: 0;
-    background-color: #222d2e
+    background-color: #222d2e;
 }
 
 .body{
-    color: white;
+    color: #d0ddd0;
     text-align: center;
     background-color: #222d2e
 }

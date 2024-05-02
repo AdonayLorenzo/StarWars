@@ -6,7 +6,8 @@
 .privacy-policy {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #ffffff;
+    color: #ddd0d0;
+    background-color: #222d2e;
   }
   
   .privacy-policy__content {

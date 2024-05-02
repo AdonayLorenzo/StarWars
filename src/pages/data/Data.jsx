@@ -35,8 +35,10 @@ const Data = () => {
     return (
         <>
             <Header />
-            <h1 className='title'>DATA</h1>
+            <h1 className='titleD'>DATA</h1>
             <div className='body'>
+            <br />
+            <br />
             <p>There is information about the films and the benefit of each one of the movies</p>
             <br></br>
             <ul>

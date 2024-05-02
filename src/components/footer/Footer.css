@@ -1,6 +1,6 @@
 .footer {
   background-color: #5e8898;
-  color: #fff;
+  color: #d0ddd0;
   padding: 2rem 0;
   text-align: center;
 }
@@ -13,7 +13,7 @@
 .footer__copyright {
   margin-bottom: 1rem;
   text-decoration: none;
-  color: white;
+  color: #d0ddd0;
 }
 
 .footer__social {
@@ -22,7 +22,7 @@
 
 .footer__social-icon {
   text-decoration: none;
-  color: white;
+  color: #d0ddd0;
   margin: 1em;
   justify-content: center;
 }
@@ -36,7 +36,7 @@
 .footer__link {
   margin: 0 1rem;
   text-decoration: none;
-  color: #fff;
+  color: #d0ddd0;
 }
 
 .footer__link:hover {

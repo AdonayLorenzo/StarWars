@@ -1,7 +1,5 @@
 import React from 'react';
 import './Footer.css';
-import Facebook from './facebook.png';
-import Twitter from './twitter.jpg';
 
 const Footer = () => {
   return (

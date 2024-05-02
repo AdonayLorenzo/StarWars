@@ -3,14 +3,14 @@
   display: flex;
   justify-content: space-between;
   background-color: #5e8898;
-  color: whitesmoke;
+  color: #d0ddd0;
   padding: 2em;
   margin: 0;
   border: 0;
 }
 #header-text {
-  color: white;
-  font-size: x-large;
+  color: #d0ddd0;
+  font-size:xx-large;
   font-style: italic;
 
 }
@@ -28,7 +28,7 @@
 
 .header-links{
   text-decoration: none;
-  color: white;
+  color: #d0ddd0;
   margin: 1em;
 }
   

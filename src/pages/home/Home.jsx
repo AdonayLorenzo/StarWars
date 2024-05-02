@@ -20,6 +20,9 @@ const Home = () => {
               <a href="/Privacity" className='links'>Privacity</a>
             </li>
             <li>
+              <a href="/Data" className='links'>Data</a>
+            </li>
+            <li>
               <a href="/Gallery" className='links'>Gallery</a>
             </li>
           </ul>
