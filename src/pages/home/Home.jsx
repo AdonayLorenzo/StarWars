@@ -23,13 +23,12 @@ const Home = () => {
               <a href="/Gallery" className='links'>Gallery</a>
             </li>
           </ul>
+          <br></br>
+          <br></br>
         </div>
-        <br></br>
-        <br></br>
-      </div>
-      <h2 className='title'>Characters</h2>
-      <br/>
-      <div className="characters">
+        <h2 className='title'>Characters</h2>
+        <br />
+        <div className="characters">
           <div className="character">
             <h2>Luke Skywalker</h2>
             <p>Luke Skywalker is a fictional character and the main protagonist of the original film trilogy of the Star Wars franchise.</p>
@@ -43,6 +42,7 @@ const Home = () => {
             <p>Princess Leia Organa is a fictional character in the Star Wars franchise, portrayed in films by Carrie Fisher.</p>
           </div>
         </div>
+      </div>
       <Footer />
     </div>
   );

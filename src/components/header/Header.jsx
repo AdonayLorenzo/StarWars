@@ -7,6 +7,7 @@ function Header() {
         <h1 id="header-text">Star Wars</h1>
         <div className="Links">
           <a href="/" className="header-links">Home</a>
+          <a href="/Gallery" className="header-links">Gallery</a>
           <a href="/Privacity" className="header-links">Privacity</a>
         </div>
       </div>

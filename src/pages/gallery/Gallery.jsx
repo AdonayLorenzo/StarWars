@@ -6,16 +6,23 @@ import './Gallery.css';
 
 const Gallery = () => {
   return (
-    <div>
-      <Header />
+    <div className='galleryBG'>
+      <div>
+        <Header />
 
-      <div className="gallery-container">
-        {Array.isArray(imagesData.images) && imagesData.images.map((image, index) => (
-          <img key={index} src={image.path} alt={image.name} /> // Use relative paths from the public folder
-        ))}
+        <div className="gallery-container">
+
+          {Array.isArray(imagesData.images) && imagesData.images.map((image, index) => (
+            <div className="image-container">
+              <img key={index} src={image.path} alt={image.name} />
+               <p className='info'>{image.info}</p>
+            </div>
+          ))}
+
+        </div>
+
+        <Footer />
       </div>
-
-      <Footer/>
     </div>
   );
 }

@@ -4,6 +4,7 @@ import Privacity from "./pages/privacity/Privacity";
 import Gallery from './pages/gallery/Gallery';
 import React from 'react';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Data from "./pages/data/Data";
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
           <Route path="/h" element={<Home />}></Route>
           <Route path="/Gallery" element={<Gallery />}></Route>
           <Route path="/Privacity" element={<Privacity />}></Route>
+          <Route path="/Data" element={<Data></Data>}></Route>
         </Routes>
       </BrowserRouter>
     </>
