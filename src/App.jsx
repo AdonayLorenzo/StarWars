@@ -7,6 +7,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Data from "./pages/data/Data";
 import Chat from "./pages/chat/Chat";
 
+
 function App() {
 
 
@@ -20,7 +21,7 @@ function App() {
           <Route path="/Gallery" element={<Gallery />}></Route>
           <Route path="/Privacity" element={<Privacity />}></Route>
           <Route path="/Data" element={<Data></Data>}></Route>
-        </Routes>
+          </Routes>
       </BrowserRouter>
     </>
   )
