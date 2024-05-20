@@ -2,47 +2,47 @@
   "images": [
     {
       "name": "Luke",
-      "path": "public/Luke2.jpg",
+      "path": "Luke2.jpg",
       "info": "Luke"
     },
     {
       "name": "Leia",
-      "path": "public/leia.jpg",
+      "path": "leia.jpg",
       "info": "Leia Organa"
     },
     {
       "name": "Poe Dameron",
-      "path": "public/poeD.jpg",
+      "path": "poeD.jpg",
       "info": "Poe Dameron"
     },
     {
       "name": "Chewaka",
-      "path": "public/chewi.jpg",
+      "path": "chewi.jpg",
       "info": "Chewaka"
     },
     {
       "name": "C3-PO",
-      "path": "public/c3po.jpg",
+      "path": "c3po.jpg",
       "info": "C3-PO"
     },
     {
       "name": "R2-D2",
-      "path": "public/r2d2.jpg",
+      "path": "R2D2.jpg",
       "info": "R2-D2"
     },
     {
       "name": "Rey",
-      "path": "public/rey.jpg",
+      "path": "rey.jpg",
       "info": "Rey"
     },
     {
       "name": "BB-8",
-      "path": "public/bb8.jpg",
+      "path": "bb8.jpg",
       "info": "BB-8"
     },
     {
       "name": "Fin",
-      "path": "public/fin.jpg",
+      "path": "fin.jpg",
       "info": "Fin"
     }
   ]
