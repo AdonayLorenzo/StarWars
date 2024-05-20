@@ -1,108 +1,109 @@
 <rss version="2.0">
 	<channel>
 	  <title>Chat Feed</title>
-	  <link>https://starwars-e2a16.web.app/Chat</link>
+	  <link>https://starwars-e2a16.web.app/RSS/4IUi91ml.xml</link>
+	  <link>https://starwars-e2a16.web.app</link>
 	  <description>Chat messages from your application</description>
 	  <language>en-us</language>
 		<item>
-		  <name>Adonay</name>
-		  <message>Hola, Funciono</message>
+		  <title>Adonay</title>
+		  <description>Hola, Funciono</description>
 		  <pubDate>20/05/2024</pubDate>
 		  <link>https://starwars-e2a16.web.app/Chat</link>
 		</item>
 		<item>
-			<name>Adonay</name>
-			<message>Hola, Funciono</message>
+			<title>Adonay</title>
+			<description>Hola, Funciono</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Ado</name>
-			<message>Vamos que va</message>
+			<title>Ado</title>
+			<description>Vamos que va</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Paco</name>
-			<message>Buena página web mereces un 10</message>
+			<title>Paco</title>
+			<description>Buena página web mereces un 10</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Loco</name>
-			<message>Que bien va la página</message>
+			<title>Loco</title>
+			<description>Que bien va la página</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>David</name>
-			<message>La vida es mas bella desde que se de esta pagina</message>
+			<title>David</title>
+			<description>La vida es mas bella desde que se de esta pagina</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Marcos</name>
-			<message>vaporeon</message>
+			<title>Marcos</title>
+			<description>vaporeon</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>One</name>
-			<message>Siempre me ha gustado BB8</message>
+			<title>One</title>
+			<description>Siempre me ha gustado BB8</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Carlos</name>
-			<message>Viva el L7E</message>
+			<title>Carlos</title>
+			<description>Viva el L7E</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Español Promedio</name>
-			<message>El lenguaje castellano es mejor</message>
+			<title>Español Promedio</title>
+			<description>El lenguaje castellano es mejor</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Relleno</name>
-			<message>Me mola el royo de la peli nueva</message>
+			<title>Relleno</title>
+			<description>Me mola el royo de la peli nueva</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Extraño002</name>
-			<message>Es esxtraño pero me molan las pelis</message>
+			<title>Extraño002</title>
+			<description>Es esxtraño pero me molan las pelis</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Carlos</name>
-			<message>Marcos, goku le gana</message>
+			<title>Carlos</title>
+			<description>Marcos, goku le gana</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Tiburcio</name>
-			<message>Le voy a poner un 10 solo por haber metido mensaje por mensaje</message>
+			<title>Tiburcio</title>
+			<description>Le voy a poner un 10 solo por haber metido mensaje por mensaje</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Echedey</name>
-			<message>Tiburcio Hazlo, ha costado mucho poner todos los mensajes</message>
+			<title>Echedey</title>
+			<description>Tiburcio Hazlo, ha costado mucho poner todos los mensajes</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>Carlos Japo</name>
-			<message>Cristina dejame ver a los niños</message>
+			<title>Carlos Japo</title>
+			<description>Cristina dejame ver a los niños</description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
 		  <item>
-			<name>odio marruecos</name>
-			<message></message>
+			<title>odio marruecos</title>
+			<description></description>
 			<pubDate>20/05/2024</pubDate>
 			<link>https://starwars-e2a16.web.app/Chat</link>
 		  </item>
