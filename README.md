@@ -20,3 +20,6 @@ This is a project to learn some features of react i tryed my best to do it.
 ## Link to Website
 
 https://starwars-e2a16.web.app
+
+## Feed Image
+![image](https://github.com/AdonayLorenzo/StarWars/assets/145705493/ba7f59e7-d493-4f72-8d2a-77eb2b2384cf)
