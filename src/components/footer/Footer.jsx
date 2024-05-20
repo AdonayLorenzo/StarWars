@@ -12,7 +12,7 @@ const Footer = () => {
           <a href="https://www.twitter.com" className="footer__social-icon">
             <img src="/imgs/footer-icons/twitter.png" alt="Twitter" />
           </a>
-          <a href="https://www.instagram.com" className="footer__social-icon">
+          <a href="https://www.instagram.com/aado_05" className="footer__social-icon">
            <img src="/imgs/footer-icons/instagram.png" alt="Instagram" />
           </a>
           <a href="/RSS/4IUi91ml.xml" className="footer__social-icon">

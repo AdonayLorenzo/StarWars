@@ -76,3 +76,12 @@ body {
   text-align: center;
   margin-top: 3em;
 }
+
+@media (max-width: 600px) {
+  .characters {
+     flex-direction: column;
+   }
+  .character {
+     margin: 1em 0;
+   }
+ }
