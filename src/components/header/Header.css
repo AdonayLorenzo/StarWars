@@ -4,6 +4,7 @@
   left: 0;
 }
 
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -65,10 +66,33 @@ color: white;
   height: 50px;
 }
 
+.link{
+  margin-top: 1em;
+  position:relative;
+}
+
+.link a{
+  text-decoration: none;
+  color: #d0ddd0;
+  margin: 1em;
+}
+
+.link a:hover{
+  background-color: rgba(0, 128, 255, 0.556);
+  box-shadow: 0 0 10px 5px rgba(0, 128, 255, 0.64);
+  transition: 1s;
+}
+
 .header-links {
   text-decoration: none;
   color: #d0ddd0;
   margin: 1em;
+}
+
+.header-links :hover {
+  background-color: rgba(0, 128, 255, 0.64);
+  box-shadow: 0 0 10px 5px rgba(0, 128, 255, 0.64);
+  transition: 1s;
 }
 
 /* Media query for tablet and below */

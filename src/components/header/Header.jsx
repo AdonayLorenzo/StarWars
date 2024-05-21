@@ -16,17 +16,16 @@ function Header() {
         </div>
         <div className="sign-section">
           <div className="sign-up"><button>Sign up</button></div>
-          <div className="sign-in"><button>Sign in</button></div>
-              
+          <div className="sign-in"><button>Sign in</button></div>   
         </div>
         <a href="/" className="logo"> <img src="logo3.png" alt="logo" className="logo" /></a>
         <h1 id="header-text">Star Wars</h1>
         <div className="Links">
-          <a href="/" className="header-links">Home</a>
-          <a href="/Chat" className="header-links">Chat</a>
-          <a href="/Gallery" className="header-links">Gallery</a>
-          <a href="/Data" className="header-links">Data</a>
-          <a href="/Privacity" className="header-links">Privacity</a>
+          <div className="link"><a href="/" className="header-links">Home</a></div>
+          <div className="link"><a href="/Chat" className="header-links">Chat</a></div>
+          <div className="link"><a href="/Gallery" className="header-links">Gallery</a></div>
+          <div className="link"><a href="/Data" className="header-links">Data</a></div>
+          <div className="link"><a href="/Privacity" className="header-links">Privacity</a></div>
         </div>
       </div>
     </>
