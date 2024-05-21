@@ -7,7 +7,7 @@
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #ddd0d0;
-    background-color: #222d2e;
+    background-color: #545454;
   }
   
   .privacy-policy__content {
@@ -20,10 +20,23 @@
     margin-bottom: 2rem;
     margin-left: 1em;
     margin-right: 1em;
+    border-top: 1px solid white;
   }
+
+  .privacy-policy h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-top: 1px solid white;
+  }
+  
   
   .privacy-policy p {
     margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 1em;
+    margin-right: 1em;
   }
   
   .privacy-policy ul {

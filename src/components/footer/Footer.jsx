@@ -10,13 +10,13 @@ const Footer = () => {
           <img src="/imgs/footer-icons/facebook.png" alt="facebook" />
           </a>
           <a href="https://www.twitter.com" className="footer__social-icon">
-            <img src="/imgs/footer-icons/twitter.png" alt="Twitter" />
+            <img src="/imgs/footer-icons/X.png" alt="Twitter" />
           </a>
           <a href="https://www.instagram.com/aado_05" className="footer__social-icon">
-           <img src="/imgs/footer-icons/instagram.png" alt="Instagram" />
+           <img src="/imgs/footer-icons/instagramb.png" alt="Instagram" />
           </a>
           <a href="/RSS/4IUi91ml.xml" className="footer__social-icon">
-          <img src="/imgs/footer-icons/rss-nobg.png" alt="RSS" />
+          <img src="/imgs/footer-icons/rssb.png" alt="RSS" />
           </a>
         </div>
         <div className="footer__links">

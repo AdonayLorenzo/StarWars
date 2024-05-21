@@ -1,4 +1,15 @@
 .chat-container{
     color: #ddd0d0;
-    background-color: #222d2e;
+    background-color: #545454;
+}
+.form-message{
+    margin-left: 1em;
+}
+
+.send-button{
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+   padding: 0.5em;
+    color: black;
+    border-radius: 1em;
 }

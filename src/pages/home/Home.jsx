@@ -8,27 +8,24 @@ const Home = () => {
     <div className="star-wars-home">
       <Header />
       <div className="content">
-        <h1>Welcome to Star Wars</h1>
+        <img className='logo2' src="/imgs/logo2.png" alt="logo" />
         <p>Explore the universe of Star Wars and discover all the information you need to know about your favorite characters, naves espaciales, planetas, etc.</p>
         <br></br>
         <br />
         <p>A website created with React to learn about this JavaScript framework and as a work of the Markup Languages subject. Explore the universe of Star Wars and discover all you need to know about your characters, spaceships, planets, etc.</p>
         <div className="links">
-          <h2>Visit the other Pages</h2>
-          <ul>
-            <li>
-              <a href="/Privacity" className='links'>Privacity</a>
-            </li>
-            <li>
-              <a href="/Data" className='links'>Data</a>
-            </li>
-            <li>
-              <a href="Chat" className='links'>Chat</a>
-            </li>
-            <li>
-              <a href="/Gallery" className='links'>Gallery</a>
-            </li>
-          </ul>
+          <h2>Last Films</h2>
+            <div className='posters'>
+              <a className='poster' href="https://www.disneyplus.com/es-es/movies/star-wars-el-despertar-de-la-fuerza-episodio-vii/1LEKJPDPeMr7">
+                <img src="/imgs/home-images/eldespertardelafuerza.jpg" alt="eldespertardelafuerza" />
+              </a>
+              <a className='poster' href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.disney.es/peliculas/star-wars-los-ultimos-jedi&ved=2ahUKEwjFtIWejZ-GAxUqTKQEHY3KCssQFnoECBUQAQ&usg=AOvVaw3BUUYPEkTNazGF3hkZaa9X">
+                <img src="/imgs/home-images/thelastjedi.jpg" alt="thelastjedi" />
+              </a>
+              <a className='poster' href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.disneyplus.com/es-es/movies/star-wars-el-ascenso-de-skywalker-episodio-ix/5e8JThYwCYgw&ved=2ahUKEwiA2tzfjp-GAxWtVqQEHaLVBSgQFnoECCwQAQ&usg=AOvVaw2QOTzlzRh9eKc9DAEc7c2w">
+                <img src="/imgs/home-images/ascensoskywalker.webp" alt="thelastjedi" />
+              </a>
+            </div>
           <br></br>
           <br></br>
         </div>

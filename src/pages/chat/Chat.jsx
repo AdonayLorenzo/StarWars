@@ -52,7 +52,7 @@ const Chat = () => {
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
-        <label htmlFor="message">Message:</label>
+        <label className="form-message" htmlFor="message">Message:</label>
         <input
           type="text"
           id="message"
@@ -60,7 +60,7 @@ const Chat = () => {
           value={message}
           onChange={(e) => setMessage(e.target.value)}
         />
-        <button type="submit">Send</button>
+        <button type="submit" className="send-button">Send</button>
       </form>
       <Footer />
     </div>

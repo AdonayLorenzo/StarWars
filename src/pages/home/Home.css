@@ -11,7 +11,7 @@ body {
 
 .star-wars-home {
   background-color: #000;
-  color: yellow;
+  color: white;
   font-family: Arial, sans-serif;
   padding: 0;
 }
@@ -36,13 +36,13 @@ body {
 
 .links{
   text-decoration: none;
-  color: yellow;
+  color: white;
   margin: 1em;
 }
 
 .links li{
   text-decoration: none;
-  color: yellow;
+  color: white;
   margin: 1em;
 }
 .characters{
@@ -52,16 +52,18 @@ body {
 
 .character{
   text-decoration: none;
-  color: yellow;
+  color: white;
   text-align: center;
-  box-sizing: border-box;
+ width: 15em;
+ margin: 2em;
   background-color: gray;
-  margin: 2em;
+  border: 1px solid white;
 }
 
-.character h1 {
-  font-size: 3rem;
+
+.character h2 {
   margin-bottom: 20px;
+  border-bottom: 1px solid white;
 }
 
 .character p {
@@ -72,9 +74,30 @@ body {
 
 .title{
   text-decoration: none;
-  color: yellow;
+  color: white;
   text-align: center;
   margin-top: 3em;
+}
+
+.porters{
+  display: flex;
+  justify-content: space-between;
+}
+
+.poster img{
+  border: 1px solid white;
+  margin: 1em;
+  width: 20em;
+  height: 30em;
+}
+
+.poster :hover{
+  border: 1px solid gray;
+}
+
+.logo2{
+  width: 30em;
+  height: 25em;
 }
 
 @media (max-width: 600px) {

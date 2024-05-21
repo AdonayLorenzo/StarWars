@@ -5,8 +5,10 @@ import './Privacity.css';
 
 const PrivacyPolicy = () => {
   return (
+    <>
+    <Header />
     <div className="privacy-policy">
-      <Header />
+      
       <main className="privacy-policy-content">
         <h1>Privacy Policy</h1>
         <p>
@@ -105,6 +107,7 @@ const PrivacyPolicy = () => {
       </main>
       <Footer />
     </div>
+    </>
   );
 };
 
