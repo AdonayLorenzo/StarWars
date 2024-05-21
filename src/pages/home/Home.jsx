@@ -23,7 +23,7 @@ const Home = () => {
                 <img src="/imgs/home-images/thelastjedi.jpg" alt="thelastjedi" />
               </a>
               <a className='poster' href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.disneyplus.com/es-es/movies/star-wars-el-ascenso-de-skywalker-episodio-ix/5e8JThYwCYgw&ved=2ahUKEwiA2tzfjp-GAxWtVqQEHaLVBSgQFnoECCwQAQ&usg=AOvVaw2QOTzlzRh9eKc9DAEc7c2w">
-                <img src="/imgs/home-images/ascensoskywalker.webp" alt="thelastjedi" />
+                <img  src="/imgs/home-images/ascensoskywalker.webp" alt="thelastjedi" />
               </a>
             </div>
           <br></br>

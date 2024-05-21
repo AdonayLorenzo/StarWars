@@ -103,7 +103,29 @@ body {
 @media (max-width: 600px) {
   .characters {
      flex-direction: column;
+     align-items: center;
    }
+
+   .logo2{
+    width: 15em;
+    height: 10em;
+  }
+
+  .posters{
+    flex-direction: column;
+    vertical-align: center;
+  }
+
+  .poster{
+    vertical-align: middle;
+  }
+
+   .poster{
+   display: flex;
+   align-self: center;
+   vertical-align:middle;
+  }
+
   .character {
      margin: 1em 0;
    }

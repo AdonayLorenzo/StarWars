@@ -1,6 +1,6 @@
 .header_social {
   position: absolute;
-  top: 10px;
+  top: 1em;
   left: 0;
 }
 
@@ -20,6 +20,16 @@
   color: #d0ddd0;
   font-size: xx-large;
   font-style: italic;
+}
+
+.sign-section{
+  position: absolute;
+  top: 2em;
+  right: 1em;
+}
+
+.sign-section button{
+margin: 0.5em;
 }
 
 .Links {
