@@ -15,8 +15,9 @@ function Header() {
           </a>
         </div>
         <div className="sign-section">
-              <button>Sign up</button>
-              <button>Sign in</button>
+          <div className="sign-up"><button>Sign up</button></div>
+          <div className="sign-in"><button>Sign in</button></div>
+              
         </div>
         <a href="/" className="logo"> <img src="logo3.png" alt="logo" className="logo" /></a>
         <h1 id="header-text">Star Wars</h1>
