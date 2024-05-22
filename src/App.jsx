@@ -6,6 +6,7 @@ import React from 'react';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Data from "./pages/data/Data";
 import Chat from "./pages/chat/Chat";
+import SignIn from "./pages/sign/Sign-In";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <Route path="/Gallery" element={<Gallery />}></Route>
           <Route path="/Privacity" element={<Privacity />}></Route>
           <Route path="/Data" element={<Data></Data>}></Route>
+          <Route path="/Sign-In" element={<SignIn></SignIn>}></Route>
           </Routes>
       </BrowserRouter>
     </>
